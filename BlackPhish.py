@@ -1,5 +1,6 @@
 # Black-Phish
 # tool Phishing
+import os
 print"""
 \033[1;36m \n
                                 .::!!!!!!!:.
