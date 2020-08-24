@@ -36,4 +36,4 @@ if o== 1:
 if o== 2:
         os.system("apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher")
 if o== 3:
-        os.system("apt update ; apt install git -y ; git clone https://github.com/thelinuxchoice/shellphish ; cd shellphish ; bash shellphish.sh")
+        os.system("apt update ; apt install git -y ; git clone https://github.com/thelinuxchoice/shellphish.git ; cd shellphish ; bash shellphish.sh")
